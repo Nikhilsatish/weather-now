@@ -2,16 +2,15 @@
 
 A clean, production-grade weather dashboard built with React 18 and TypeScript. Search any city in the world, view current conditions and a 5-day forecast, toggle between °C and °F, and revisit recent searches — all with real live data from the Open-Meteo API.
 
-**[Live Demo →](https://weather-now-nikhil.vercel.app)** &nbsp;|&nbsp; **[GitHub →](https://github.com/Nikhilsatish/weather-now)**
+**[Live Demo →](https://weather-now-rosy-zeta.vercel.app/)** &nbsp;|&nbsp; **[GitHub →](https://github.com/Nikhilsatish/weather-now)**
 
 > No API key. No signup. No credit card. Open-Meteo is completely free.
 
 ---
 
 ## 📸 Preview
+<img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/b65564bc-08c1-42c6-bb03-9ce2035b8a4d" />
 
-> Add screenshot after deploying:
-> `![WeatherNow Preview](./public/preview.png)`
 
 ---
 
