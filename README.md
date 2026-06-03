@@ -203,7 +203,7 @@ No `.env` file needed. Works immediately.
 |---|---|---|---|
 | [TaskFlow](https://github.com/Nikhilsatish/react-taskflow) | R1–R10 · Fundamentals | React, Vite | ✅ Complete |
 | [ExpenseTracker](https://github.com/Nikhilsatish/expense-tracker-react) | R11–R20 · Hooks + Context + Router | React, React Router | ✅ Complete |
-| [DevBoard](https://github.com/Nikhilsatish/devboard-github-explorer) | R21–R30 · Redux + Advanced | React, Redux Toolkit | ✅ Complete |
+| [DevBoard](https://github.com/Nikhilsatish/devboard) | R21–R30 · Redux + Advanced | React, Redux Toolkit | ✅ Complete |
 | **WeatherNow** (this one) | TypeScript + Real API + Custom Hooks | React, TypeScript, Open-Meteo | ✅ Complete |
 
 ---
